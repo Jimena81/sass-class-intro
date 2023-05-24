@@ -1,0 +1,8 @@
+@mixin prueba{
+    color:aqua;
+    font-size: 150px;
+}
+
+h3{
+    @include prueba
+}

@@ -8,6 +8,11 @@ main #section-two {
   color: green;
 }
 
+h3 {
+  color: aqua;
+  font-size: 150px;
+}
+
 body {
   background-color: burlywood;
 }
